@@ -1,0 +1,19 @@
+{
+  "name": "curlrequest",
+  "version": "0.0.1",
+  "description": "a native implemenation of a curl request",
+  "cordova": {
+    "id": "cordova-plugin-curlrequest",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "kgb",
+  "license": "ISC"
+}
